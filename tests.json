@@ -1,0 +1,10 @@
+{
+    "magine" : {
+        "description" : "Description of test",
+        "code"        : "i.magine(furok)",
+        "result"      : ">i.magine(furok)\n_I_: With this animite, I magine Furok!\nFurok:Let the fur fly!",
+        "state"       : {
+            "_a_" : "furok"
+        }
+    }
+}
