@@ -2,7 +2,7 @@
     "magine" : {
         "description" : "Description of test",
         "code"        : "i.magine(furok)",
-        "result"      : ">i.magine(furok)\nTony: With this animite, I magine Furok!\nFurok: Let the fur fly!",
+        "result"      : "Welcome to iMagine v_v_!\nFor help and credits, type help then press enter.\n>i.magine(furok)\nTony: With this animite, I magine Furok!\nFurok: Let the fur fly!",
         "state"       : {
             "_a_" : "furok"
         }
