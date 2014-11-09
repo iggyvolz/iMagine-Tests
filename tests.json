@@ -1,10 +1,18 @@
 {
-    "magine" : {
-        "description" : "Description of test",
-        "code"        : "i.magine(furok)",
-        "result"      : "Welcome to iMagine v_v_!\nFor help and credits, type help then press enter.\n>i.magine(furok)\nTony: With this animite, I magine Furok!\nFurok: Let the fur fly!",
-        "state"       : {
-            "_a_" : "furok"
-        }
+  "magine" : {
+    "description" : "Basic test of magine function",
+    "code"        : "i.magine(furok)",
+    "result"      : "Welcome to iMagine v_v_!\nFor help and credits, type help then press enter.\n>i.magine(furok)\nTony: With this animite, I magine Furok!\nFurok: Let the fur fly!",
+    "state"       : {
+      "_a_" : "furok"
+      }
+    },
+  "changeto" : {
+    "description" : "Basic test of changeto function",
+    "code"        : "edyn.changeto()",
+    "result"      : "Welcome to iMagine v_v_!\nFor help and credits, type help then press enter.\n>edyn.changeto()\nEdyn is now selected!",
+    "state"       : {
+      "_a_" : "furok"
+      }
     }
 }
