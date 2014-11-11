@@ -23,7 +23,8 @@
     "description" : "Basic test of the version function",
     "code"        : "version",
     "result"      : {
-      "a":"Welcome to iMagine _v_!\nFor help and credits, type help then press enter.\n>version\nAhead of _v_ by _nc_ commits.\nLast commit: _c_, message \"_m_\""
+      "a":"Welcome to iMagine _v_!\nFor help and credits, type help then press enter.\n>version\nAhead of _v_ by _nc_ commits.\nLast commit: _c_, message \"_m_\"",
+      "b":"Welcome to iMagine _v_!\nFor help and credits, type help then press enter.\n>version\nOn version _v_."
     },
     "state"       : {
 
